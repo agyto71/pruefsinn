@@ -1,0 +1,25 @@
+{
+ "quelle": {
+  "titel": "EEA – Monitoring of CO2 emissions from passenger cars (VO (EU) 2019/631), Zulassungen in Deutschland",
+  "fassung": "Erstzulassungsjahre 2010–2025 (letztes Jahr vorläufig)",
+  "herausgeber": "Europäische Umweltagentur (EEA)",
+  "lizenz": "CC BY 4.0",
+  "url": "https://discodata.eea.europa.eu/",
+  "hinweis": "Angaben der Hersteller zur Typgenehmigung; Radstand und Spurweite fehlen in neueren Jahren oft."
+ },
+ "teile": 32,
+ "felder": [
+  "nachtrag",
+  "typ",
+  "variante",
+  "handelsname",
+  "kraftstoff",
+  "hubraum",
+  "kw",
+  "radstand",
+  "spur1",
+  "spur2",
+  "von",
+  "bis"
+ ]
+}

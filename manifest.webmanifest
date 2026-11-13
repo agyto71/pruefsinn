@@ -1,0 +1,23 @@
+{
+  "name": "Prüfsinn – Werkzeug für Prüfer",
+  "short_name": "Prüfsinn",
+  "description": "Mängel einsprechen, amtliche Einstufung sehen, StVZO durchsuchen, rechnen – auch ohne Netz.",
+  "lang": "de",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f2efe9",
+  "theme_color": "#1b1a18",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "shortcuts": [
+    { "name": "Aufträge", "url": "./#/auftraege" },
+    { "name": "Mängelkatalog", "url": "./#/wissen" },
+    { "name": "Bremsenrechner", "url": "./#/rechner/bremsen" }
+  ]
+}
